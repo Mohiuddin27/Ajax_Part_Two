@@ -1,0 +1,19 @@
+@font-face {
+	src: url('../fonts/UbuntuCondensed-Regular.ttf');
+	font-family: 'ubuntu';
+}
+* {
+	font-family: 'ubuntu';
+}
+
+
+body {
+	background-color: #e9e9e9;
+}
+.sign-up .card{
+	width:400px;
+	display:block;
+	margin:0 auto;
+	margin-top:20px;
+
+}
